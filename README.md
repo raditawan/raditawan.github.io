@@ -37,7 +37,7 @@ Latest commit 988ac60 1 minute ago
 -->
 <html>
 	<head>
-		<title>Dimension by HTML5 UP</title>
+		<title>About Praditiawan</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
